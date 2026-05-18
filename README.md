@@ -3,12 +3,19 @@ This is a React Native application for Saarang App Vertical Selection.
 It is a Saarang-themed application to navigate between Artist, Workshop, and Sponsors tabs.
 
 Features:
+
  -> Modern Dark themed UI
+
  -> Home page
- -> Artists Section with images, a short description, and on      clicking artist image, it redirects user to their google page
+
+ -> Artists Section with images, a short description, and on    clicking artist image, it redirects user to their google page
+
  -> Workshops Section with book now button (dummy)
+
  -> Sponsors Section
+
  -> Navigation between tabs
+
  -> Responsive mobile-friendly layout
 
 Tech Stack:
@@ -20,6 +27,7 @@ Tech Stack:
 Folder Structure
 
 saarang-app
+
    ├── app
    ├── assets
    ├── components
