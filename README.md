@@ -18,15 +18,17 @@ Tech Stack:
  ->Expo Router
 
 Folder Structure
-saarang-app/
-├── app/
-├── assets/
-├── components/
-├── hooks/
-├── package.json
-└── README.md
+
+saarang-app
+   ├── app
+   ├── assets
+   ├── components
+   ├── hooks
+   ├── package.json
+   └── README.md
 
 Setup Instructions:
+
  Note: It is preferred to connect mobile to laptop hotspot to avoid different network issues
    1. Clone Repository:
       git clone <github-repository-link>
@@ -42,14 +44,19 @@ Setup Instructions:
       press a to open android emulator
 
 Screenshots:
+
 Home Page
 ![Home Screen](./Screenshots/home.jpg)
+
 Artist Page
 ![Artists Screen](./Screenshots/artists.gjp)
+
 Redirected Google Page
 ![Redirected Screen](./Screenshots/redirect.jpg)
+
 Workshop Page
 ![Workshop Screen](./Screenshots/workshops.jpg)
+
 Sponsors Page
 ![Sponsors Screen](./Screenshots/sponsors.jpg)
 
