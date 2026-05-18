@@ -19,9 +19,13 @@ Features:
  -> Responsive mobile-friendly layout
 
 Tech Stack:
+
  ->React Native
+
  ->Expo
+ 
  ->JavaScript
+ 
  ->Expo Router
 
 Folder Structure
@@ -29,10 +33,15 @@ Folder Structure
 saarang-app
 
    ├── app
+
    ├── assets
+
    ├── components
+
    ├── hooks
+
    ├── package.json
+
    └── README.md
 
 Setup Instructions:
@@ -54,19 +63,24 @@ Setup Instructions:
 Screenshots:
 
 Home Page
-![Home Screen](./Screenshots/home.jpg)
+
+![Home Screen](./Screenshots/home.jpeg)
 
 Artist Page
-![Artists Screen](./Screenshots/artists.gjp)
+
+![Artists Screen](./Screenshots/artists.jpeg)
 
 Redirected Google Page
-![Redirected Screen](./Screenshots/redirect.jpg)
+
+![Redirected Screen](./Screenshots/redirect.jpeg)
 
 Workshop Page
-![Workshop Screen](./Screenshots/workshops.jpg)
+
+![Workshop Screen](./Screenshots/workshops.jpeg)
 
 Sponsors Page
-![Sponsors Screen](./Screenshots/sponsors.jpg)
+
+![Sponsors Screen](./Screenshots/sponsors.jpeg)
 
 AUTHOR:
  TARJANEE
